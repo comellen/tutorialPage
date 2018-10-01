@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    background-color: rgb(34, 31, 34);
+    font-family: Consolas, "Liberation Mono", monaco, courier, monospace;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+}
+main {
+    margin: 0 auto;
+}
+header {
+    background: rgb(46, 42, 46);
+    margin: 0px 0px 60px 0px;
+    padding: 5px;
+}
+h1 {
+    color: rgb(197, 197, 197);
+    font-size: 48px;
+    font-weight: lighter;
+    margin: 0;
+    padding: 5px 0px 0px 20px;
+}
+h3 {
+    color: rgb(197, 197, 197);
+}
+p {
+    color: rgb(197, 197, 197);
+}
+p#foot {
+    color: rgb(114, 112, 114);
+}
+footer {
+    background-color: rgb(46, 42, 46);
+    text-align: right;
+    padding: 20px 20px 0px 0px;
+    height: 100%;
+}
+.outerbox {
+    background-color: rgb(46, 42, 46);
+    width: 80%;
+    padding: 5px 10px 0px 30px;
+    margin: 0px 0px 60px 0px;
+}
+.innerbox {
+    background-color: rgb(25, 24, 25);
+    border: thin rgb(197, 197, 197) solid;
+    margin: 20px;
+}
+#var {
+    color: rgb(78, 223, 234);
+}
+#vari {
+    color: rgb(78, 223, 234);
+    font-style: italic;
+}
+#op {
+    color: rgb(255, 80, 135);
+}
+#string {
+    color: rgb(255, 216, 76);
+}
+#text {
+    color: rgb(252, 252, 250);
+}
+#tag {
+    color: rgb(153, 223, 102);
+}
+#num {
+    color: rgb(175, 154, 248);
+}
+#par {
+    color: rgb(255, 147, 91);
+    font-style: italic;
+}
+#ret {
+    color: rgb(255, 80, 135);
+}
