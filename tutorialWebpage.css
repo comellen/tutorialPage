@@ -47,6 +47,7 @@ footer {
     background-color: rgb(25, 24, 25);
     border: thin rgb(197, 197, 197) solid;
     margin: 20px;
+    padding-left: 10px;
 }
 #var {
     color: rgb(78, 223, 234);
